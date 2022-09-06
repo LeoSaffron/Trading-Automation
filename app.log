@@ -1,0 +1,46 @@
+DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): download2.interactivebrokers.com:443
+DEBUG - urllib3.connectionpool - https://download2.interactivebrokers.com:443 "GET /portal/clientportal.beta.gw.zip HTTP/1.1" 200 10767366
+INFO - root - 
+        Operating System: win32
+        Session State Path: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\ibw\server_session.json
+        Client Portal Folder: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\resources\clientportal.beta.gw
+        
+DEBUG - root - 
+            Server State: load
+            State File: False
+            
+DEBUG - root - 
+            Server Prcoess Init: None
+            
+DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): download2.interactivebrokers.com:443
+DEBUG - urllib3.connectionpool - https://download2.interactivebrokers.com:443 "GET /portal/clientportal.beta.gw.zip HTTP/1.1" 200 10767366
+INFO - root - 
+        Operating System: win32
+        Session State Path: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\ibw\server_session.json
+        Client Portal Folder: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\resources\clientportal.beta.gw
+        
+DEBUG - root - 
+            Server State: load
+            State File: False
+            
+DEBUG - root - 
+            Server Prcoess Init: None
+            
+INFO - root - Server Process: None
+DEBUG - root - Running Client Folder at: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\resources\clientportal.beta.gw
+DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): download2.interactivebrokers.com:443
+DEBUG - urllib3.connectionpool - https://download2.interactivebrokers.com:443 "GET /portal/clientportal.beta.gw.zip HTTP/1.1" 200 10767366
+INFO - root - 
+        Operating System: win32
+        Session State Path: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\ibw\server_session.json
+        Client Portal Folder: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\resources\clientportal.beta.gw
+        
+DEBUG - root - 
+            Server State: load
+            State File: False
+            
+DEBUG - root - 
+            Server Prcoess Init: None
+            
+INFO - root - Server Process: None
+DEBUG - root - Running Client Folder at: C:\Users\jonsnow\Anaconda3\envs\tf2\Lib\site-packages\resources\clientportal.beta.gw

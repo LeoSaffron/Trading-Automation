@@ -1,0 +1,1 @@
+{"frame_size": "100", "train_len": "225720", "test_len": "7975", "taining_epochs": "30", "learning_rate": "0.0001", "upper_limit": "3.0", "lower_limit": "0.3", "threshold_Y_binary_percent": "1.021", "description": "", "loss_function": "mse", "optimizer": "Adam", "thresholds": "[0.5 0.6 0.7 0.8 0.9]", "thresholds_results": "[(54, 98), (0, 0), (0, 0), (0, 0), (0, 0)]"}

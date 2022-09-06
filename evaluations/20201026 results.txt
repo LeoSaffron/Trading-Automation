@@ -1,0 +1,81 @@
+[{'name': 'AMC',
+  'nn_score': 0.73956406,
+  'trigger_time': '2020-10-26 11:10:00',
+  'discovered_time': '2020-10-26 20:52:01'},
+B:2.75
+S: 2.8
+Max gain: 1.8%
+Max lose: 2.1%
+eod: 0
+
+ {'name': 'CLNY',
+  'nn_score': 0.7976681,
+  'trigger_time': '2020-10-26 11:10:00',
+  'discovered_time': '2020-10-26 20:52:01'},
+
+B: 3.29
+S: <= 3.375
+max gain: 2.5%
+ {'name': 'COTY',
+  'nn_score': 0.81277055,
+  'trigger_time': '2020-10-26 11:10:00',
+  'discovered_time': '2020-10-26 20:52:02'},
+B: 3.1550
+max win: 0.79%
+max lose: 1.74
+eod: 0.79%
+
+ {'name': 'GRIL',
+  'nn_score': 0.8005173,
+  'trigger_time': '2020-10-26 11:10:00',
+  'discovered_time': '2020-10-26 20:52:03'},
+B: 2.190
+max win:2.7%
+before that lose 5.5%
+lose: 13%
+
+ {'name': 'CEI',
+  'nn_score': 0.8097376,
+  'trigger_time': '2020-10-26 11:11:00',
+  'discovered_time': '2020-10-26 20:52:05'},
+B: 0.8122
+S: 0.76%
+before that lose 1.5%
+max lose 2.5%
+
+ {'name': 'BXRX',
+  'nn_score': 0.75736994,
+  'trigger_time': '2020-10-26 11:12:00',
+  'discovered_time': '2020-10-26 20:52:11'},
+ {'name': 'CRBP',
+  'nn_score': 0.8079795,
+  'trigger_time': '2020-10-26 11:12:00',
+  'discovered_time': '2020-10-26 20:52:12'},
+ {'name': 'BBI',
+  'nn_score': 0.81814075,
+  'trigger_time': '2020-10-26 11:13:00',
+  'discovered_time': '2020-10-26 20:52:16'},
+ {'name': 'ESRT',
+  'nn_score': 0.71781373,
+  'trigger_time': '2020-10-26 11:13:00',
+  'discovered_time': '2020-10-26 20:52:19'},
+ {'name': 'ETTX',
+  'nn_score': 0.81808215,
+  'trigger_time': '2020-10-26 11:15:00',
+  'discovered_time': '2020-10-26 20:52:32'},
+ {'name': 'ACOR',
+  'nn_score': 0.798594,
+  'trigger_time': '2020-10-26 11:16:00',
+  'discovered_time': '2020-10-26 20:52:35'},
+ {'name': 'AIHS',
+  'nn_score': 0.8159427,
+  'trigger_time': '2020-10-26 11:18:00',
+  'discovered_time': '2020-10-26 20:52:47'},
+ {'name': 'BPTH',
+  'nn_score': 0.70204896,
+  'trigger_time': '2020-10-26 11:20:00',
+  'discovered_time': '2020-10-26 20:53:01'},
+ {'name': 'EMAN',
+  'nn_score': 0.75320864,
+  'trigger_time': '2020-10-26 11:20:00',
+  'discovered_time': '2020-10-26 20:53:04'}]
